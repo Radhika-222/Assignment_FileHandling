@@ -1,0 +1,7 @@
+E:\Mphasis\Day7\Assignment_FileHandling\Assignment_FileHandling\bin\Debug\Assignment_FileHandling.exe.config
+E:\Mphasis\Day7\Assignment_FileHandling\Assignment_FileHandling\bin\Debug\Assignment_FileHandling.exe
+E:\Mphasis\Day7\Assignment_FileHandling\Assignment_FileHandling\bin\Debug\Assignment_FileHandling.pdb
+E:\Mphasis\Day7\Assignment_FileHandling\Assignment_FileHandling\obj\Debug\Assignment_FileHandling.csproj.AssemblyReference.cache
+E:\Mphasis\Day7\Assignment_FileHandling\Assignment_FileHandling\obj\Debug\Assignment_FileHandling.csproj.CoreCompileInputs.cache
+E:\Mphasis\Day7\Assignment_FileHandling\Assignment_FileHandling\obj\Debug\Assignment_FileHandling.exe
+E:\Mphasis\Day7\Assignment_FileHandling\Assignment_FileHandling\obj\Debug\Assignment_FileHandling.pdb
